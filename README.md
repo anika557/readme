@@ -24,7 +24,7 @@ Skills Used: React, Tailwind CSS, Node.js, MongoDB, SEO Optimization.
 
 
 ## 📈 **GitHub Stats**
-![Ahsan's GitHub Stats](https://github.com/anika557?tab=stars&show_icons=true&theme=radical)
+![Anika's GitHub Stats](https://github.com/anika557?tab=stars&show_icons=true&theme=radical)
 
 ## 📫 **Contact Me**
 - **Website:** [cforcode.odoo.com](#)  
